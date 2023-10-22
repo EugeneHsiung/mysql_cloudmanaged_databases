@@ -8,7 +8,7 @@
 5. Create your instance name and passwordMac
 6. Make sure that; database version: 8.0, SQL edition: Enterprise, Preset: Sandbox, Machine config: Shared core; 1 vCPU, 0.614 GB, Connection: public IP, Network: Allow All and 0.0.0.0/0
 7. Create
-8. Follow [guide](https://mycourses.stonybrook.edu/d2l/le/content/695780/viewContent/27020091/View) for MySQL Workbench for Database Interaction 
+8. Follow [video](https://mycourses.stonybrook.edu/d2l/le/content/695780/viewContent/27020091/View) for MySQL Workbench for Database Interaction 
 
 
 ## Setup MySQL on Azure
@@ -19,4 +19,4 @@
 5. Click Next: Networking
 6. Make sure; connectivity: public Access and private endpoint, Firewall rules: Allow public access from any Azure service within Azure to this server, 0.0.0.0 - 255.255.255.255
 7. Create
-8. Follow [guide](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/connect-workbench) for MySQL Workbench for Database Interaction
+8. Follow [link](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/connect-workbench) for MySQL Workbench for Database Interaction
